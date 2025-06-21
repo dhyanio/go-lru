@@ -1,7 +1,7 @@
 # LRU Cache in golang
 
 ```bash
-go get https://github.com/dhyanio/go-lru
+go get github.com/dhyanio/go-lru
 ```
 
 ```golang
